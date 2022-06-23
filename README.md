@@ -1,6 +1,6 @@
 # What about Check my TodoList App?
 
-My friend is helpme to start programming with react and stuff
+My friend @https://github.com/isaquedev is helpme to start programming with react and stuff
 
 
 ## How is the app look like?
