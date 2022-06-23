@@ -27,21 +27,45 @@ h1, h2, h3, h4, h5, h6 {
 
 // ============ APPLICATION ================ 
 .App{
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-color);
 }
 
 // general content
 .container{
-
+  background-color: var(--white-color);
+  margin-top: 4rem;
+  height: 100vh;
+  padding: 0.8rem;
 }
 
 // aplication header
 .title-box{
-  
+  min-height: 7rem;
 }
-
+.SubmitFormInput{
+  margin-top: 1rem;
+  width: 100%;
+  padding: 1.5rem;
+  font-weight: 600;
+  font-size: 1.6rem;
+}
 // aplication content
 
 .content-box{
+  margin-top: 4rem;
+}
 
+.content-box ul{
+  
+}
+
+.content-box ul li{
+  list-style: none;
+  text-decoration: none;
+  height: 6rem;
+  background-color: aqua;
+  margin-top: 1rem; 
 }
