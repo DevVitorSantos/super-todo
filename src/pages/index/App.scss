@@ -1,0 +1,47 @@
+// application resets
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+:root {
+  --primary-color: #0A1128;
+  --white-color: #FFFFFF;
+  --gap: 3rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+// ============ APPLICATION ================ 
+.App{
+
+}
+
+// general content
+.container{
+
+}
+
+// aplication header
+.title-box{
+  
+}
+
+// aplication content
+
+.content-box{
+
+}
